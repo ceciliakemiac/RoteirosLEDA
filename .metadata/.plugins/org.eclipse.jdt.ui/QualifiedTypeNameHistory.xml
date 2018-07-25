@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="adt.bt.BTNode"/>
+<fullyQualifiedTypeName name="adt.bst.BSTImpl"/>
+<fullyQualifiedTypeName name="adt.bt.Util"/>
+<fullyQualifiedTypeName name="adt.heap.Heap"/>
+<fullyQualifiedTypeName name="adt.heap.HeapImpl"/>
+<fullyQualifiedTypeName name="java.util.Arrays"/>
+</qualifiedTypeNameHistroy>

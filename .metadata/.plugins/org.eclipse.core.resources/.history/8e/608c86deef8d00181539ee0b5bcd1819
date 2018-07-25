@@ -1,0 +1,18 @@
+package teste;
+
+import java.util.Arrays;
+
+import adt.bst.BSTImpl;
+
+public class Teste {
+	static BSTImpl<Integer> tree = new BSTImpl<Integer>();
+	
+	public static void main(String[] args) {
+		Integer[] array = {9, 8, 5, 42};
+		for(Integer valor : array) {
+			tree.insert(valor);
+		}
+		System.out.println(Arrays.toString(tree.descendingOrder()));
+	}
+	
+}

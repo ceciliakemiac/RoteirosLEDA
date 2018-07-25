@@ -1,0 +1,16 @@
+package teste;
+
+import adt.bst.BSTImpl;
+
+public class Teste {
+	static BSTImpl<Integer> tree = new BSTImpl<Integer>();
+	
+	public static void main(String[] args) {
+		Integer[] array = {2, 4, 1};
+		for(Integer valor : array) {
+			tree.insert(valor);
+		}
+		System.out.println(tree.totalFolhas());
+	}
+	
+}

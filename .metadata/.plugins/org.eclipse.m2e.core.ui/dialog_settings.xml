@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Users\Cecília Kemiac\Documents\Computação\Leda\R15-01-Rot-SkipList-environment (1)"/>
+			<item value="C:\Users\Cecília Kemiac\Documents\Computação\Leda\R13-01-Rot-ArvoreAVL-environment"/>
+			<item value="C:\Users\Cecília Kemiac\Documents\Computação\Leda\R12-01-Rot-Heap-environment"/>
+			<item value="C:\Users\Cecília Kemiac\Documents\Computação\Leda\R10-01-Rot-Arvore-Binaria-de-Busca-environment"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+</section>
