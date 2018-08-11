@@ -3491,3 +3491,42 @@ java.util.concurrent.TimeoutException: Timeout after waiting 5 seconds to acquir
 
 !ENTRY org.eclipse.m2e.logback.appender 2 0 2018-08-11 00:29:51.107
 !MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-08-11 00:33:36.608
+!MESSAGE Failure to transfer br.edu.ufcg.ccc:leda-chart-tool:1.0.0-SNAPSHOT/maven-metadata.xml from http://150.165.85.29:8081/nexus/content/repositories/ufcg-leda was cached in the local repository, resolution will not be reattempted until the update interval of ufcg-leda has elapsed or updates are forced. Original error: Could not transfer metadata br.edu.ufcg.ccc:leda-chart-tool:1.0.0-SNAPSHOT/maven-metadata.xml from/to ufcg-leda (http://150.165.85.29:8081/nexus/content/repositories/ufcg-leda): Failed to transfer http://150.165.85.29:8081/nexus/content/repositories/ufcg-leda/br/edu/ufcg/ccc/leda-chart-tool/1.0.0-SNAPSHOT/maven-metadata.xml. Error code 500, Server Error
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-08-11 00:33:37.161
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-08-11 00:33:37.166
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-08-11 00:34:54.240
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-08-11 00:34:54.243
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-08-11 00:41:06.915
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-08-11 00:41:06.918
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-08-11 00:42:03.862
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-08-11 00:42:03.865
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-08-11 00:42:33.455
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-08-11 00:42:33.457
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-08-11 00:42:43.417
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-08-11 00:42:43.420
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
