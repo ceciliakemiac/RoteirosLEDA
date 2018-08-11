@@ -8,4 +8,8 @@
 <fullyQualifiedTypeName name="java.util.LinkedList"/>
 <fullyQualifiedTypeName name="adt.skipList.SkipListImpl"/>
 <fullyQualifiedTypeName name="java.util.Arrays"/>
+<fullyQualifiedTypeName name="sorting.simpleSorting.BubbleSort"/>
+<fullyQualifiedTypeName name="sorting.simpleSorting.InsertionSort"/>
+<fullyQualifiedTypeName name="util.Util"/>
+<fullyQualifiedTypeName name="sorting.variationsOfBubblesort.SimultaneousBubblesort"/>
 </qualifiedTypeNameHistroy>

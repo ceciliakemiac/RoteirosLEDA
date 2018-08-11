@@ -1,8 +1,0 @@
-package teste;
-
-import adt.bst.BSTImpl;
-
-public class Teste {
-	BSTImpl<Integer> tree = new BSTImpl<Integer>();
-	tree.insert(new Integer(7));
-}
