@@ -890,3 +890,4 @@
 2018-08-11 00:29:51,103 [Worker-18: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2018-08-11 00:29:51,105 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Cecília Kemiac\Documents\Computação\Leda\R02-01-Rot-RecursiveSorting-3-way-Quicksort-environment\src\main\resources
 2018-08-11 00:29:51,106 [Worker-18: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-11 00:29:51,107 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Cecília Kemiac\Documents\Computação\Leda\R02-01-Rot-RecursiveSorting-3-way-Quicksort-environment\src\test\resources
