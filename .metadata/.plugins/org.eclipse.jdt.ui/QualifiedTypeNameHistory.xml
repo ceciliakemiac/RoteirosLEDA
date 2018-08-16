@@ -13,8 +13,10 @@
 <fullyQualifiedTypeName name="sorting.variationsOfBubblesort.SimultaneousBubblesort"/>
 <fullyQualifiedTypeName name="sorting.divideAndConquer.MergeSort"/>
 <fullyQualifiedTypeName name="sorting.divideAndConquer.QuickSort"/>
-<fullyQualifiedTypeName name="util.Util"/>
 <fullyQualifiedTypeName name="sorting.divideAndConquer.threeWayQuicksort.ThreeWayQuickSort"/>
 <fullyQualifiedTypeName name="sorting.linearSorting.CountingSort"/>
 <fullyQualifiedTypeName name="sorting.linearSorting.ExtendedCountingSort"/>
+<fullyQualifiedTypeName name="sorting.variationsOfBubblesort.CombSort"/>
+<fullyQualifiedTypeName name="util.Util"/>
+<fullyQualifiedTypeName name="sorting.variationsOfBubblesort.GnomeSort"/>
 </qualifiedTypeNameHistroy>

@@ -2,10 +2,13 @@ INDEX VERSION 1.131+C:\Users\Cecília Kemiac\Documents\Computação\Leda\.metadata\
 3130123030.index
 1307048706.index
 4045376274.index
-88683192.index
+2763825444.index
 2226513372.index
+88683192.index
 539562109.index
 3139857230.index
+569474655.index
+3088067376.index
 4143257146.index
 3558934825.index
 3537434729.index

@@ -2,6 +2,9 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\Users\Cecília Kemiac\Documents\Computação\Leda\R06-01-Rot-Linked-list-abordagem-iterativa-environment"/>
+			<item value="C:\Users\Cecília Kemiac\Documents\Computação\Leda\R05-01-Rot-Pilha-FilaCircular-environment"/>
+			<item value="C:\Users\Cecília Kemiac\Documents\Computação\Leda\R04-01-Rot-Sorting-Gnome-e-Comb-environment"/>
 			<item value="C:\Users\Cecília Kemiac\Documents\Computação\Leda\R03-01-Rot-LinearSorting-Countingsort-environment"/>
 			<item value="C:\Users\Cecília Kemiac\Documents\Computação\Leda\R02-01-Rot-RecursiveSorting-3-way-Quicksort-environment"/>
 			<item value="C:\Users\Cecília Kemiac\Documents\Computação\Leda\R01-01-Rot-SimpleSorting-Simultaneous-Bubble-environment"/>
