@@ -1070,3 +1070,4 @@
 2018-08-16 16:29:24,348 [Worker-26: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2018-08-16 16:29:24,349 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Cecília Kemiac\Documents\Computação\Leda\R08-01-Rot-TabelaHash-EndFechado-environment\src\main\resources
 2018-08-16 16:29:24,351 [Worker-26: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-16 16:29:24,352 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Cecília Kemiac\Documents\Computação\Leda\R08-01-Rot-TabelaHash-EndFechado-environment\src\test\resources
